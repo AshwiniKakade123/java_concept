@@ -40,13 +40,13 @@ class Main{
        System.out.println("Post Increment(first featch the value then increase):"+result);
        System.out.println(num);
 
-       System.out.println("pre Increment(first increase the value then print:)"+result1);
+       System.out.println("pre Increment(first increase the value then print):"+result1);
        System.out.println(num);
 
        System.out.println("Post Decrement(first featch the value then Decrease):"+result);
        System.out.println(num);
 
-       System.out.println("pre Decrement(first decrease the value then print:)"+result1);
+       System.out.println("pre Decrement(first decrease the value then print):"+result1);
        System.out.println(num);
     
 
